@@ -1,3 +1,5 @@
+![logo](https://github.com/viswajitverma/viswajitverma/blob/main/Computer%20Science%20Engineer.png)
+
 <h1 align="center">Hi 👋, I'm Viswajit Verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
