@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswajitverma&label=Profile%20views&color=0e75b6&style=flat" alt="viswajitverma" /> </p>
 
-- 🔭 I’m currently working on [Facebook-Login_Page](https://github.com/viswajitverma/Facebook-Login_Page)
+- 🔭 I’m currently working on [Amazon_Cloning]()
 
-- 🌱 I’m currently learning **Full Stack Development, Machine Learning**
+- 🌱 I’m currently learning **Cloud Programming, DevOps**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ viswajit-verma-aa8084278](www.linkedin.com/in/ viswajit-verma-aa8084278)
 
