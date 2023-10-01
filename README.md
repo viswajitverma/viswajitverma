@@ -13,7 +13,7 @@
   
 - 🔭 I had completed a Project on [ChatBot](https://github.com/viswajitverma/ChatBot)
   
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ viswajit-verma-aa8084278](www.linkedin.com/in/ viswajit-verma-aa8084278)
+- 👨‍💻 All of my projects are available at [LinkedIn](www.linkedin.com/in/viswajit-verma)
 
 - 📫 How to reach me **viswajitverma2@gmail.com**
 
