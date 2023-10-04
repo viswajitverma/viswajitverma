@@ -29,8 +29,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/viswajitverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswajitverma" height="30" width="40" /></a>
 <a href="https://codesandbox.com/viswajitverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="viswajitverma" height="30" width="40" /></a>
-<a href="https://instagram.com/viswajitverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viswajitverma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@viswajitverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@viswajitverma" height="30" width="40" /></a>
+<a href="@viswajitverma_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viswajitverma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/viswajitverma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@viswajitverma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viswajitverma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viswajitverma2" height="30" width="40" /></a>
 </p>
 
