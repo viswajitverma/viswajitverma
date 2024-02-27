@@ -13,7 +13,9 @@
 
 - 🔭 Here are some of my completed Projects
 
-- 🔭 Rescent Completed Project [JavaScript_Projects]([https://github.com/viswajitverma/ChatBot](https://github.com/viswajitverma/Javascript-Projects))
+- 🔭 Rescent Completed Project [JavaScript_Projects](https://github.com/viswajitverma/Javascript-Projects)
+
+- 🔭 Project on ChatBot [ChatBot](https://github.com/viswajitverma/ChatBot)
 
 - 🔭 Project on Cloning [Amazon_Clone](https://github.com/viswajitverma/Amazon_Clone)
 
