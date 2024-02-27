@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Website Developing]()
 
-- 🌱 I’m currently learning **Cloud Programming, DevOps**
+- 🌱 I’m currently learning **React, JavaScript**
 
 - 🔭 Here are some of my completed Projects
 
-- 🔭 Rescent Completed Project [ChatBot](https://github.com/viswajitverma/ChatBot)
+- 🔭 Rescent Completed Project [JavaScript_Projects]([https://github.com/viswajitverma/ChatBot](https://github.com/viswajitverma/Javascript-Projects))
 
 - 🔭 Project on Cloning [Amazon_Clone](https://github.com/viswajitverma/Amazon_Clone)
 
